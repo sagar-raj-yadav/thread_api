@@ -1,4 +1,5 @@
-[
+{
+  "user":[
   {
     "id": 1,
     "name": "sagar",
@@ -302,3 +303,4 @@
     "contentImage": "https://imgs.search.brave.com/H9T60JspCDF9nATw4weof7Dmr8VJxqEVshZzXEarEfs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2ZjLzA0/L2I1L2ZjMDRiNTcw/ZWM0YzYyMjdhZTNl/Y2JlM2E4MzQ2ZDhj/LmpwZw"
   }
 ]
+}
